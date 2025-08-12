@@ -358,3 +358,48 @@ export const historyData = [
     }
   }
 ];
+
+export const testimonialsdata = [
+  {
+    text: "Sanjay bhai understand the need and work accordingly , he goes to micro niche to take action in blue sea. This is the best quality/ USP.",
+    stars: 5,
+    name: "Mehar Holiday Planners"
+  },
+  {
+    text: "Hired #Leadsandbrands for one of the personal yet crucial projects and must say their client servicing is admirable. They were able to deliver on requirements quickly with their great graphical designs and strong expertise on digital marketing. Full points for customer satisfaction. #Webdesign #websitedevelopment.",
+    stars: 5,
+    name: "Shalabh Verma"
+  },
+  {
+    text: "One of the best digital marketing company They have Top seo services & Best website development team They also offer Web design services Contacted them for a project which was delivered on time fulfilling all the requirements.",
+    stars: 5,
+    name: "SRISHTI SHARMA"
+  },
+  {
+    text: "Best digital marketing company in bhopal with top seo services . Highly recommended..",
+    stars: 5,
+    name: "sehaj singh"
+  },
+  {
+    text: "We identify Leads and Brands as the top web development or web designing agency in Bhopal. I must say, they believe in providing the most efficient and cost-effective solution for their clients. We think that as a top web development company in Bhopal, their website designs turn visitors into paying clients.",
+    stars: 5,
+    name: "Dr. Soumyata Jain",
+    company: "Meditreat Clinic"
+  },
+  {
+    text: "I know Leads and Brands for a long. They are the best in digital marketing and SEO..",
+    stars: 5,
+    name: "Sanjay Tiwari"
+  },
+  {
+    text: "Best graphical designers in Bhopal with good seo services.",
+    stars: 5,
+    name: "Radhika Diwakar"
+  },
+  {
+    text: "I am writing this feedback because of how happy I am with leads and brands previously I have given my website to many digital agencies for SEO purposes but non them able to bring my website on the front page but Leads and Brands did they did right SEO for website and helped my website to generate organic traffic. Best digital marketing agency in Bhopal, India.",
+    stars: null,
+    name: "Radhika Jain",
+    company: "Delhi Bikers Group"
+  }
+];

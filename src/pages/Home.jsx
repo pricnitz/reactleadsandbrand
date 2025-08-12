@@ -5,7 +5,8 @@ import Allservices from '../components/homecomponents/Allservices';
 import Coreteam from '../components/homecomponents/Coreteam';
 import Successstory from '../components/homecomponents/Successstory';
 import History from '../components/homecomponents/History';
-import { Whatwedodata, Allservicesdata , successStoriesdata , teamMembersdata , historyData } from '../../data';
+import Testimonial from '../components/homecomponents/Testimonial';
+import { Whatwedodata, Allservicesdata , successStoriesdata , teamMembersdata , historyData , testimonialsdata } from '../../data';
 import successtoryimg from '../assets/banners/1.jpeg'
 
 
@@ -20,6 +21,7 @@ function Home() {
       </div>
       <Coreteam data={teamMembersdata} />
       <History data={historyData} />
+      <Testimonial data={testimonialsdata} />
     </div>
   )
 }
