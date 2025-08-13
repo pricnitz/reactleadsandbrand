@@ -25,52 +25,52 @@ export const Whatwedodata = {
     {
       title: "Digital Marketing",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/dg.svg",
-      link: "https://leadsandbrands.com/digital-marketing-services-bhopal"
+      link: "/digital-marketing-services-bhopal"
     },
     {
       title: "SEO",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/seo.svg",
-      link: "https://leadsandbrands.com/seo-company-bhopal"
+      link: "/seo-company-bhopal"
     },
     {
       title: "PPC",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/ppc.svg",
-      link: "https://leadsandbrands.com/ppc-services-bhopal"
+      link: "/ppc-services-bhopal"
     },
     {
       title: "SEM",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/sem.svg",
-      link: "https://leadsandbrands.com/sem-services-bhopal"
+      link: "/sem-services-bhopal"
     },
     {
       title: "SMM",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/sm.svg",
-      link: "https://leadsandbrands.com/social-media-services-bhopal"
+      link: "/social-media-services-bhopal"
     },
     {
       title: "Content",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/cw.svg",
-      link: "https://leadsandbrands.com/content-development-services"
+      link: "/content-development-services"
     },
     {
       title: "Web Development",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/wd.svg",
-      link: "https://leadsandbrands.com/web-developement-services-bhopal"
+      link: "/web-developement-services-bhopal"
     },
     {
       title: "App Development",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/ap.svg",
-      link: "https://leadsandbrands.com/app-developement-services-bhopal"
+      link: "/app-developement-services-bhopal"
     },
     {
       title: "Email Marketing",
       img: "https://leadsandbrands.com/public/images/icon/n-icon/email.svg",
-      link: "https://leadsandbrands.com/email-marketing-services"
+      link: "/email-marketing-services"
     },
     {
       title: "AI Marketing",
       img: "https://leadsandbrands.com/public/images/icon/ai.svg",
-      link: "https://leadsandbrands.com/ai-marketing-bhopal"
+      link: "/ai-marketing-bhopal"
     }
   ]
 }
@@ -82,7 +82,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/dg.svg",
     description:
       "One of the most popular marketing techniques of modern times is digital marketing. Your company requires a digital marketing agency in Bhopal that well appreciates the constraints and potential of various digital media platforms, but can provide the best digital marketing services in Bhopal via various means such as Search Engine Optimization (SEO), Social Media Marketing, Paid Search (PPC) advertising, Effective Content Marketing, Email Marketing, and Mobile Marketing among many others.",
-    link: "https://leadsandbrands.com/digital-marketing-services-bhopal"
+    link: "/digital-marketing-services-bhopal"
   },
   {
     title: "SEO",
@@ -90,7 +90,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/seo.svg",
     description:
       "At leadsandBrands, you are not just getting digital presence for your product or website but also complete search engine optimization solutions from scratch. As we are one of the Best SEO company and agency in Bhopal, Madhya Pradesh we have been gone through from zero to infinite level weather you want leads, sales, conversions for your website we will help you in every aspect to get you real customers for your business as a SEO company in Bhopal we not work on false promises we work from the start of the work to end of the campaign until you get desired results. Weather you have a business in real estate, medical, education, travel we are always ready to work with you.",
-    link: "https://leadsandbrands.com/seo-company-bhopal"
+    link: "/seo-company-bhopal"
   },
   {
     title: "Paid Search Marketing",
@@ -98,7 +98,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/ppc.svg",
     description:
       "PPC (Pay Per Click) is a part of search engine marketing and all about receiving the appropriate quality leads for your business. Leads and Brands, an expert PPC company in Bhopal, has a special team for PPC advertising in Bhopal that assists your business in targeting the appropriate keywords and audiences in the right way.",
-    link: "https://leadsandbrands.com/ppc-services-bhopal"
+    link: "/ppc-services-bhopal"
   },
   {
     title: "Social Media",
@@ -106,7 +106,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/sm.svg",
     description:
       "Social Media Marketing assists your company in establishing a strong online presence in the current market. We are all aware of how much time one spends on social media platforms. Capitalizing on this advantage, Leads and Brands - a world-class social media agency in Bhopal - has created robust strategies to rebrand your company as a well-established brand on all social media platforms. Our dedicated team of experts offers best-in-class social media services in Bhopal, focusing on successful digital engagement.",
-    link: "https://leadsandbrands.com/social-media-services-bhopal"
+    link: "/social-media-services-bhopal"
   },
   {
     title: "Content Marketing",
@@ -117,7 +117,7 @@ export const Allservicesdata = [
       "Being a top content writing company in bhopal, we design useful and engaging content that transports your readers on a journey - from minimal brand familiarity to seriously thinking about your solution. Our bhopal content development company is expert in developing top-notch content that is engaging, shareable, and sales-driving.",
       "Employing our expert content writing services in bhopal assists your business in building thought leadership and positioning yourself as a thought leader in your industry. Good content is the groundwork that establishes your authority and turns visitors into buyers."
     ],
-    link: "https://leadsandbrands.com/content-development-services"
+    link: "/content-development-services"
   },
   {
     title: "Web Development",
@@ -128,7 +128,7 @@ export const Allservicesdata = [
       "Leads and Brands is a top Website Designing Company in Bhopal. We can guarantee you the best cost-effective and optimised solution for your needs. We identify it as the best web developing or web designing company in Bhopal and in the business world. Being the top web development services in Bhopal, we are convinced that your website must be able to turn visitors into paying customers. That's why we review all the major points of our client's website and provide a seamless and satisfying experience.",
       "Some of the major things we considered while designing a website. - Unless Friendly - Responsive - Quicker Loading Speed - SEO Friendly - Total Responsive Setup - Best Support and Maintenance"
     ],
-    link: "https://leadsandbrands.com/web-developement-services-bhopal"
+    link: "/web-developement-services-bhopal"
   },
   {
     title: "App Development",
@@ -139,7 +139,7 @@ export const Allservicesdata = [
         "Leads and Brands is a top mobile app development firm in Bhopal, providing custom mobile app development services in Bhopal as per your business requirements. In this age of digitalization, a mobile application is as important as a website for business growth. We specialize in creating top-performing Android applications with innovative, secure, and intuitive designs. Regular updates are also provided by us so that your app remains competitive.",
         "We at Leads and Brands have a team of experienced professionals with 5+ years of experience in mobile app development services in Bhopal. Being one of the most reliable mobile app development companies in Bhopal, we ensure timely and budget-friendly projects. Mobile app development is not just an affordable option but also a popular choice to drive engagement and reach."
       ],
-    link: "https://leadsandbrands.com/app-developement-services-bhopal"
+    link: "/app-developement-services-bhopal"
   },
   {
     title: "Email Marketing",
@@ -151,7 +151,7 @@ export const Allservicesdata = [
         "If you are looking for email marketing services in Bhopal, Leads and Brands is your email marketing agency in Bhopal. Our professional team awaits to advise you regarding mass email marketing campaigns as per your business requirements. One of the main strengths of email marketing is that it is cheaper than the traditional modes of marketing. Targeting an audience who are already familiar with your brand, you can get much better conversion rates. Email marketing is also a key element in full-scale digital marketing strategies. As a top email marketing agency in Bhopal, we assist you in engaging with your audience to drive your brand, increase sales, and improve customer interaction. Using email marketing, you can sell, offer unique discounts, broadcast news, and drive cart value while developing long-term relationships with customers.",
         "Select Leads and Brands for result-oriented and expert email marketing services in Bhopal for growing your business effectively."
       ],
-    link: "https://leadsandbrands.com/email-marketing-services"
+    link: "/email-marketing-services"
   },
   {
     title: "Bulk Messaging",
@@ -159,7 +159,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/email.svg",
     description:
       "Bulk messaging is all about sending messages to our clients for remiding about our services. And also if you introduce new product or services in market and you want to inform your customers you can take the help of bulk messaging. There are many software in market for sending and receiving bulk SMS.",
-    link: "https://leadsandbrands.com/"
+    link: "/"
   },
   {
     title: "Google Local Listing",
@@ -167,7 +167,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/seo.svg",
     description:
       "Google local listing also known as google my business, where you can put all information about your company. Your address, your services your website, and everything you want to share, as much relevant possible information as possible, especially physical location and keywords.",
-    link: "https://leadsandbrands.com/"
+    link: "/"
   },
   {
     title: "E-commerce Solution",
@@ -175,7 +175,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/wd.svg",
     description:
       "If you have an online business and you're having long-term business goals then you must need an e-commerce website. It'll help your business to get more traffic and sales. At Leads and Brands, we use advanced and innovative software to build engaging user-friendly websites or software. Which helps your customer to find enjoyable and easy to navigate designs.",
-    link: "https://leadsandbrands.com/"
+    link: "/"
   },
   {
     title: "Graphic Design",
@@ -183,7 +183,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/n-icon/cw.svg",
     description:
       "At Leads and Brands, we offer professional and creative graphic services which helps company to build brand image in market and reflect your unique identity.",
-    link: "https://leadsandbrands.com/"
+    link: "/"
   },
   {
     title: "AI Marketing",
@@ -191,7 +191,7 @@ export const Allservicesdata = [
     img: "https://leadsandbrands.com/public/images/icon/ai.svg",
     description:
       "Leads and Brands is proud to be Bhopal's first AI marketing agency. We specialize in using artificial intelligence to boost digital marketing strategies, offering innovative solutions tailored for businesses. With expertise in predictive analytics, personalized automation, and more, we redefine marketing excellence in Bhopal's dynamic marketplace. Partner with us to stay ahead with cutting-edge AI technologies and achieve unparalleled growth and success.",
-    link: "https://leadsandbrands.com/ai-marketing-bhopal"
+    link: "/ai-marketing-bhopal"
   }
 ];
 
@@ -402,4 +402,56 @@ export const testimonialsdata = [
     name: "Radhika Jain",
     company: "Delhi Bikers Group"
   }
+];
+
+
+export const blogscarddata = [
+  {
+    title: "On-Page SEO vs Off-Page SEO: A Quick Guide",
+    link: "on-page-seo-vs-off-page-seo",
+    img: "https://leadsandbrands.com/public/images/blog/On-Page SEO vs Off-Page SEO.jpg",
+    alt: "On-Page SEO vs Off-Page SEO",
+    description:
+      "On-page and off-page SEO are two important strategies of search engine optimization. They determine how visible your website is online.",
+  },
+  {
+    title: "Performance Marketing: Maximizing ROI with Data-Driven Ads",
+    link: "performance-marketing",
+    img: "https://leadsandbrands.com/public/images/blog/3.png",
+    alt: "Performance Marketing",
+    description:
+      "Performance marketing has taken the digital world by storm, becoming a go-to strategy for brands aiming to achieve tangible results from their ad spend. But what exactly is performance marketing, and how can businesses use data-driven ads to boost their ROI? Whether you’re a small business owner searching for an online marketing agency near me or a larger brand looking for the best SEO services in India, this guide has you covered.",
+  },
+  {
+    title: "AI in Digital Marketing: How Businesses Can Stay Ahead",
+    link: "ai-in-digital-marketing",
+    img: "https://leadsandbrands.com/public/images/blog/2.png",
+    alt: "AI in Digital Marketing",
+    description:
+      "Artificial Intelligence (AI) is revolutionizing the way businesses approach digital marketing.",
+  },
+  {
+    title: "SEO Trends 2025: What Marketers Need to Know",
+    link: "seo-trends",
+    img: "https://leadsandbrands.com/public/images/blog/seo2025.png",
+    alt: "SEO Trends 2025",
+    description:
+      "Search Engine Optimization (SEO) is constantly changing. What worked five years ago—or even five months ago—may not guarantee success today. With search algorithms becoming more intelligent, user behaviors shifting, and new technologies on the rise, staying ahead in SEO is critical for businesses.",
+  },
+  {
+    title: "Social Media Strategies That Drive Real Engagement",
+    link: "social-media",
+    img: "https://leadsandbrands.com/public/images/blog/socialmedia.png",
+    alt: "Social Media Strategies",
+    description:
+      "Who doesn’t want social media content that stops people mid-scroll and inspires them to engage? Whether you’re a small business or a thriving brand, social media success lies in one thing—engagement. Likes, shares, comments, and clicks are more than just vanity metrics; they fuel visibility, build trust, and ultimately drive conversions.",
+  },
+  {
+    title: "SEO vs GEO Understanding the Differences and Benefits",
+    link: "seogeo",
+    img: "https://leadsandbrands.com/public/images/blog/seogeo.jpg",
+    alt: "SEO vs GEO",
+    description:
+      "In the ever-evolving digital landscape, businesses must choose the right marketing strategies to enhance their online presence.",
+  },
 ];

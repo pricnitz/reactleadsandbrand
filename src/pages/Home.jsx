@@ -12,7 +12,7 @@ import successtoryimg from '../assets/banners/1.jpeg'
 
 function Home() {
   return (
-    <div className='w-full h-screen'>
+    <div className='w-full'>
       <Hero />
       <Whatwedo data={Whatwedodata} />
       <Allservices data={Allservicesdata} />

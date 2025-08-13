@@ -3,6 +3,7 @@ import AllRoutes from "./allroutes/AllRoutes"
 import Navbar from "./components/navbar/Navbar"
 import { Headertitles } from "../data"
 import Socillinks from "./components/sociallinks/Socillinks"
+import Footer from "./components/Footer/Footer"
 
 function App() {
   return (
@@ -14,7 +15,11 @@ function App() {
       <div className="max-w-screen w-full">
         <AllRoutes />
       </div>
-      <Socillinks />
+      <div className="hidden md:block">
+          <Socillinks />
+      </div>
+    
+      <Footer />
     </div>
   )
 }
